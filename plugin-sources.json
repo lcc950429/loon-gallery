@@ -115,5 +115,11 @@
         "user": "Guding88",
         "repo": "Script",
         "branch": "main"
-    }
+    },
+    {
+    "user": "Peng-YM",
+    "repo": "QuanX",
+    "branch": "master",
+    "paths": ["/Tools"]
+}
 ]
